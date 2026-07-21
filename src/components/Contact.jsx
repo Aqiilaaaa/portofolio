@@ -10,11 +10,11 @@ function Contact() {
       <div className="contact-container">
 
         <a
-          href="mailto:emailkamu@gmail.com"
+          href="mailto:aqiilaviani20@gmail.com"
           className="contact-card"
         >
           <h3>Email</h3>
-          <span>emailkamu@gmail.com</span>
+          <span>aqiilaviani20@gmail.com</span>
         </a>
 
         <a
