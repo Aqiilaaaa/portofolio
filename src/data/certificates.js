@@ -1,6 +1,6 @@
-import sertif1 from "../assets/Sertif1.jpeg";
-import sertif2 from "../assets/Sertif2.jpeg";
-import sertif3 from "../assets/Sertif3.jpeg";
+import sertif1 from "../assets/sertif1.jpeg";
+import sertif2 from "../assets/sertif2.jpeg";
+import sertif3 from "../assets/sertif3.jpeg";
 
 const certificates = [
   {
